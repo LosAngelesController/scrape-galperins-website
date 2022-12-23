@@ -1,6 +1,6 @@
 {
   "name": "scraper-controller-scripts",
-  "type": "module", 
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "edit-json-file": "^1.7.0",
     "node-fetch": "^3.3.0",
     "puppeteer": "^19.4.0",
     "readline": "^1.3.0"

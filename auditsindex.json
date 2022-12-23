@@ -1,0 +1,1404 @@
+{
+  "audits": [
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/12/LAWA-IEA-Thumbnail-scaled.jpg",
+      "name": "Industrial, Economic and Administrative Survey of the Los Angeles World Airports",
+      "year": "2022",
+      "dept": "LOS ANGELES WORLD AIRPORTS",
+      "link": "https://lacontroller.org/audits-and-reports/industrial-economic-and-administrative-survey-of-the-los-angeles-world-airports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/11/DCR-Cover-scaled.jpg",
+      "name": "High Maintenance: Review of the City’s Cannabis Regulation Efforts",
+      "year": "2022",
+      "dept": "DEPARTMENT OF CANNABIS REGULATION",
+      "link": "https://lacontroller.org/audits-and-reports/review-of-the-citys-cannabis-regulation-efforts/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/11/Notify-LA-Thumbnail-scaled.jpg",
+      "name": "Follow-Up Audit — Alert and Aware: Modernizations to Improve NotifyLA, the City’s Emergency Mass Notification System",
+      "year": "2022",
+      "dept": "EMERGENCY MANAGEMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/follow-up-audit-alert-and-aware-modernizations-to-improve-notifyla-the-citys-emergency-mass-notification-system/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/11/DSW-Thumbnail-scaled.jpg",
+      "name": "Follow-Up Audit — In Case of Emergency: The City’s Disaster Service Worker Program",
+      "year": "2022",
+      "dept": "DISASTER SERVICE WORKER PROGRAM",
+      "link": "https://lacontroller.org/audits-and-reports/follow-up-audit-in-case-of-emergency-the-citys-disaster-service-worker-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/10/Emergency-Management-Department-Audit-Cover-scaled.jpg",
+      "name": "A Better Plan to Get L.A. Ready for Emergencies",
+      "year": "2022",
+      "dept": "EMERGENCY MANAGEMENT",
+      "link": "https://lacontroller.org/audits-and-reports/a-better-plan-to-get-l-a-ready-for-emergencies/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY21 Single Audit Reports",
+      "year": "2021",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy21-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/09/Youth-Program-Follow-Up-2022.png",
+      "name": "Follow-Up Audit—Room to Grow: A Framework for Youth Development in Los Angeles",
+      "year": "2022",
+      "dept": "CITY YOUTH PROGRAMS",
+      "link": "https://lacontroller.org/audits-and-reports/youth-development-in-l-a-follow-up-audit/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/08/LADWP-IEA-2022.jpg",
+      "name": "Industrial, Economic and Administrative Survey of the Los Angeles Department of Water and Power",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/iea-survey-of-the-department-of-water-and-power/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/07/Management-Audit-Report-of-LACERS.png",
+      "name": "Management Audit Report of the Los Angeles City Employees’ Retirement System",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/management-audit-report-of-the-los-angeles-city-employees-retirement-system/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/07/Management-Audit-Report-of-the-Los-Angeles-Fire-and-Police-Pensions.png",
+      "name": "Management Audit Report of the Los Angeles Fire and Police Pensions",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/management-audit-report-of-the-los-angeles-fire-and-police-pensions/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/03/FWA-Annual-Report-Cover-2022.png",
+      "name": "On the Lookout: Fraud, Waste and Abuse Annual Report",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/fwa-2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/02/HHH-Report-2022.png",
+      "name": "The Problems and Progress of Prop. HHH",
+      "year": "2022",
+      "dept": "PROPOSITION HHH",
+      "link": "https://lacontroller.org/audits-and-reports/problems-and-progress-of-prop-hhh/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/12/City-Properties-Report_2.png",
+      "name": "City Properties Available for Homeless Housing and Services",
+      "year": "2022",
+      "dept": "CITY ADMINISTRATIVE OFFICER",
+      "link": "https://lacontroller.org/audits-and-reports/city-owned-properties/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/11/Sidewalk-Report-Cover.png",
+      "name": "Repairing L.A.’s Broken Sidewalk Strategy",
+      "year": "2021",
+      "dept": "PUBLIC WORKS",
+      "link": "https://lacontroller.org/audits-and-reports/sidewalks/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY20 Single Audit Reports",
+      "year": "2021",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy20-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/08/LAFD-OT-Cover.jpg",
+      "name": "Overtime Oversight: LAFD’s COVID-19 Labor Costs",
+      "year": "2021",
+      "dept": "LAFD",
+      "link": "https://lacontroller.org/audits-and-reports/lafd-overtime-covid-testing/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/06/Smart-Cities-Cover-1.jpg",
+      "name": "Protecting Privacy Makes a Smarter L.A.",
+      "year": "2021",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/protecting-privacy/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/05/Taxes-paid-cover-image.jpg",
+      "name": "Increasing Local Investment in Los Angeles",
+      "year": "2021",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/increasing-local-investment/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/04/FWA-Annual-Report-Cover-2020_241x312.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse 2020 Annual Report",
+      "year": "2021",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/fwa-2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/03/Illegal-Dumping-Cover.jpg",
+      "name": "Piling Up: Addressing L.A.’s Illegal Dumping Problem",
+      "year": "2021",
+      "dept": "BUREAU OF SANITATION",
+      "link": "https://lacontroller.org/audits-and-reports/illegaldumping/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/03/411-on-311-Cover_2-brick.jpg",
+      "name": "The 411 on 311: Calling for a Customer-First Approach",
+      "year": "2021",
+      "dept": "INFORMATION TECHNOLOGY AGENCY",
+      "link": "https://lacontroller.org/audits-and-reports/311/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/02/Payroll-Equity-Report_Ethnicity-Cover_241.jpg",
+      "name": "Diversity with Equity: Achieving Fairness at the City of Los Angeles",
+      "year": "2021",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/diversitywithequity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/09/Stronger-Connection-Digital-Services-Report-Cover.jpg",
+      "name": "A  Stronger Connection: Expanding Digital Government Services",
+      "year": "2020",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/digitalservices/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/09/Beacon-Cover.png",
+      "name": "Economic Development and Land Use in Los Angeles",
+      "year": "2020",
+      "dept": "ASSET MANAGEMENT",
+      "link": "https://lacontroller.org/audits-and-reports/economic-development-and-land-use-in-los-angeles/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/09/HHH-2020-Report-Cover-2.jpg",
+      "name": "Meeting the Moment: An Action Plan to Advance Prop. HHH",
+      "year": "2020",
+      "dept": "PROPOSITION HHH",
+      "link": "https://lacontroller.org/audits-and-reports/hhhactionplan/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/07/Gender-Equity-Report-Cover-1.jpg",
+      "name": "Closing the Gap: Women’s Pay and Representation at the City of L.A.",
+      "year": "2020",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/genderequity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/07/Business-Inclusion-Program-Review-Cover-e1593631461403.png",
+      "name": "Seizing the Opportunity to Advance City Contracting Equity",
+      "year": "2020",
+      "dept": "BUREAU OF CONTRACT ADMINISTRATION",
+      "link": "https://lacontroller.org/audits-and-reports/contractingequity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/City-Art-Cover.png",
+      "name": "A More Modern Approach to City-Owned Art",
+      "year": "2020",
+      "dept": "CULTURAL AFFAIRS",
+      "link": "https://lacontroller.org/audits-and-reports/cityart/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q1 Report",
+      "year": "2020",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/fraud-waste-and-abuse-q1-2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY19 Single Audit Reports",
+      "year": "2020",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy19-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/FWA-Annual-Report-Cover-2.png",
+      "name": "On the Lookout: Fraud, Waste and Abuse Annual Report",
+      "year": "2020",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/fwa-2019/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Utility-Discount-Programs-Cover-e1578945071730.png",
+      "name": "Powering Up the City’s Utility Discount Programs",
+      "year": "2020",
+      "dept": "CITY UTILITY DISCOUNT PROGRAMS",
+      "link": "https://lacontroller.org/audits-and-reports/utility-discount-programs/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Wildfire-cover_2.jpg",
+      "name": "It Only Takes a Spark: Enhancing DWP’s Wildfire Prevention Strategy",
+      "year": "2019",
+      "dept": "DWP WILDFIRE PREVENTION",
+      "link": "https://lacontroller.org/audits-and-reports/dwps-wildfire-prevention/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q3 Report",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-fraud-waste-and-abuse-q3-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Overtime-Report-e1572555571188.jpg",
+      "name": "On the Clock: Review of City Employee Overtime",
+      "year": "2019",
+      "dept": "CITY OVERTIME",
+      "link": "https://lacontroller.org/audits-and-reports/overtime/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/10/Audit-and-Report-Cover-HHH-e1570221867133.jpg",
+      "name": "The High Cost of Homeless Housing: Review of Proposition HHH",
+      "year": "2019",
+      "dept": "PROPOSITION HHH",
+      "link": "https://lacontroller.org/audits-and-reports/high-cost-of-homeless-housing-hhh/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/08/Purchase-Review-Cover-ThumbnIL.png",
+      "name": "Los Angeles World Airports P-Card Purchasing Review",
+      "year": "2019",
+      "dept": "Airports (LAWA)",
+      "link": "https://lacontroller.org/audits-and-reports/los-angeles-world-airports-p-card-purchasing-review/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/08/2019-08-30.jpg",
+      "name": "Strategy on the Streets: Improving LAHSA’s Outreach Program",
+      "year": "2019",
+      "dept": "LAHSA",
+      "link": "https://lacontroller.org/audits-and-reports/strategy-on-the-streets/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/08/Asset-Managment-Cover_2-e1565649200631.jpg",
+      "name": "Los Angeles Municipal Development Corporation",
+      "year": "2019",
+      "dept": "ASSET MANAGEMENT",
+      "link": "https://lacontroller.org/audits-and-reports/real-estate-asset-management/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: Los Angeles Fire Department IT Commodity Procurement",
+      "year": "2019",
+      "dept": "Los Angeles Fire Department",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-los-angeles-fire-department-it-commodity-procurement/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q2 Report",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-fraud-waste-and-abuse-q2-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/07/AUDIT-Thumbnail-Room-to-Grow.png",
+      "name": "Room to Grow: A Framework for Youth Development in Los Angeles",
+      "year": "2019",
+      "dept": "CITY YOUTH PROGRAMS",
+      "link": "https://lacontroller.org/audits-and-reports/youthprogramsreport/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: HCIDLA IT Commodity Procurement",
+      "year": "2019",
+      "dept": "HCIDLA",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-hcidla-it-commodity-procurement/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: HCIDLA IT Professional Services Contracting",
+      "year": "2019",
+      "dept": "HCIDLA",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-hcidla-it-professional-services-contracting-review/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q1 Report",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-fraud-waste-and-abuse-unit-quarterly-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/LADBS-Report-Cover-Thumbnail-1.jpg",
+      "name": "Strengthening Oversight of the City’s IT Contracts",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/itcontracts/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/TUMBCover_On-the-Lookout_Review-of-the-Fraud-Waste-and-Abuse-Unit_3.27.jpg",
+      "name": "On the Lookout: Review of the Fraud, Waste and Abuse Unit",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-review-of-the-fraud-waste-and-abuse-unit/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2019_TurningNewLeaf_sm.png",
+      "name": "Turning Over A New Leaf: L.A.’s Tree Trimming And Maintenance Program",
+      "year": "2019",
+      "dept": "DEPARTMENT OF PUBLIC WORKS",
+      "link": "https://lacontroller.org/audits-and-reports/turning-over-a-new-leaf-l-a-s-tree-trimming-and-maintenance-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: Payroll for the Los Angeles Department of Water and Power",
+      "year": "2019",
+      "dept": "LADWP",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-payroll-for-the-los-angeles-department-of-water-and-power/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2019_LosAngelesHarbor_sm.png",
+      "name": "Industrial, Economic and Administrative Survey of the Los Angeles Harbor Department",
+      "year": "2019",
+      "dept": "HARBOR DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/industrial-economic-and-administrative-survey-of-the-los-angeles-harbor-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/2019_InCaseofEmergency_sm.png",
+      "name": "In Case of Emergency: The City’s Disaster Service Worker Program",
+      "year": "2019",
+      "dept": "EMERGENCY MANAGEMENT; PERSONNEL DEPT",
+      "link": "https://lacontroller.org/audits-and-reports/in-case-of-emergency-the-citys-disaster-service-worker-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2019_ShiftingGears_sm.png",
+      "name": "Shifting Gears: A Review of the City’s Passenger Vehicle Motor Pool",
+      "year": "2019",
+      "dept": "GENERAL SERVICES DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/shifting-gears-a-review-of-the-citys-passenger-vehicle-motor-pool/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-engaging-older-angelenos.jpg",
+      "name": "Engaging Older Angelenos",
+      "year": "2018",
+      "dept": "DEPARTMENT OF AGING",
+      "link": "https://lacontroller.org/audits-and-reports/engaging-older-angelenos/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-alert-and-aware.jpg",
+      "name": "Alert and Aware: Review of NotifyLA, the City’s Mass Notification System",
+      "year": "2018",
+      "dept": "EMERGENCY MANAGEMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/alert-and-aware-review-of-notifyla-the-citys-mass/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Department of Transportation",
+      "year": "2018",
+      "dept": "DEPARTMENT OF TRANSPORTATION",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-department-of-transportation/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/subventions-e1580837201576.jpeg",
+      "name": "Incentive Agreements: Tax Breaks and Subvention Deals",
+      "year": "2018",
+      "dept": "EWDD",
+      "link": "https://lacontroller.org/audits-and-reports/incentive-agreements-tax-abatements-subvention-agreements-cf-15-0850-s2/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-A-hire-calling.jpg",
+      "name": "A Hire Calling: Modernizing Recruitment and Hiring in Los Angeles",
+      "year": "2018",
+      "dept": "PERSONNEL DEPT",
+      "link": "https://lacontroller.org/audits-and-reports/a-hire-calling-modernizing-recruitment-and-hiring-in-los-angeles/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Purchasing Cards for General Services Department",
+      "year": "2018",
+      "dept": "GENERAL SERVICES DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-purchasing-cards-for-general-services-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY18 Single Audit Reports",
+      "year": "2018",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy18-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-review-of-city-of-los-angeles-oil.jpg",
+      "name": "Review of Oil and Gas Drilling Sites in the City of Los Angeles",
+      "year": "2018",
+      "dept": "OFFICE OF PETROLEUM &amp; NATURAL GAS ADMINISTRATION AND SAFETY",
+      "link": "https://lacontroller.org/audits-and-reports/review-of-the-city-of-los-angeles-oil-and-gas-drilling/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Purchasing Cards for Department of Recreation and Parks",
+      "year": "2018",
+      "dept": "RECREATION AND PARKS",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-purchasing-cards-for-department-of-recreation-and-parks/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Payroll for the Los Angeles Bureau of Sanitation",
+      "year": "2018",
+      "dept": "BUREAU OF SANITATION",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-payroll-for-the-los-angeles-bureau-of-sanitation/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Payroll for the Los Angeles Department of Building and Safety",
+      "year": "2018",
+      "dept": "DEPARTMENT OF BUILDING AND SAFETY",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-payroll-for-the-los-angeles-department-of-building-and-safety/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-Housing-and-Community.png",
+      "name": "Audit on Systematic Code Enforcement Program",
+      "year": "2018",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/audit-on-systematic-code-enforcement-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Purchasing Cards for Los Angeles Fire Department",
+      "year": "2018",
+      "dept": "LOS ANGELES FIRE DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-purchasing-cards-for-los-angeles-fire-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-LA-Zoo-.png",
+      "name": "Greater Transparency & Accountability at L.A. Zoo",
+      "year": "2018",
+      "dept": "ZOO DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/greater-transparency-accountability-at-l-a-zoo/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Los Angeles City Harbor Department Compliance Review",
+      "year": "2018",
+      "dept": "HARBOR DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/los-angeles-city-harbor-department-compliance-review/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Los Angeles Police Department",
+      "year": "2018",
+      "dept": "LOS ANGELES POLICE DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-los-angeles-police-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-Dept-of-Disability.png",
+      "name": "A More Accessible Los Angeles: Audit of the Department on Disability",
+      "year": "2018",
+      "dept": "DEPARTMENT ON DISABILITY",
+      "link": "https://lacontroller.org/audits-and-reports/a-more-accessible-los-angeles-audit-of-the-department-on-disability/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-Building-Safety-Elevator.png",
+      "name": "Elevating Safety: Audit of the City’s Elevator Inspection Program",
+      "year": "2018",
+      "dept": "DEPARTMENT OF BUILDING &amp; SAFETY",
+      "link": "https://lacontroller.org/audits-and-reports/elevating-safety-audit-of-the-department-of-building-safetys-elevator-inspection-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit of the General Services Department",
+      "year": "2018",
+      "dept": "GENERAL SERVICES DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-of-the-general-services-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2007/10/BSS-Street-Sweeping-102517-4-e1551379547361.jpg",
+      "name": "Audit on a More Dynamic, Efficient Approach to Street Sweeping",
+      "year": "2017",
+      "dept": "BUREAU OF STREET SERVICES",
+      "link": "https://lacontroller.org/audits-and-reports/audit-on-a-more-dynamic-efficient-approach-to-street-sweeping/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Report_Homeless_Encampments.png",
+      "name": "Homeless Encampments",
+      "year": "2017",
+      "dept": "HOMELESSNESS",
+      "link": "https://lacontroller.org/audits-and-reports/homeless-encampments/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Sun-Valley-Park-01-17-4.jpg",
+      "name": "Park Grade LA",
+      "year": "2015",
+      "dept": "PARK GRADE LA",
+      "link": "https://lacontroller.org/audits-and-reports/park-grade-la/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Bureau of Contract Administration",
+      "year": "2017",
+      "dept": "BUREAU OF CONTRACT ADMINISTRATION",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-bureau-of-contract-administration/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_IT_Disaster_Preparedness_Recovery_Continuity.png",
+      "name": "Audit of Information Technology Disaster Preparedness, Recovery, and Continuity",
+      "year": "2017",
+      "dept": "INFORMATION TECHNOLOGY",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-information-technology-disaster-preparedness-recovery-and-continuity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_Employee_Health_Benefits.png",
+      "name": "Audit of Employee Healthcare Benefits",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-employee-healthcare-benefits/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit of the Office of the City Clerk",
+      "year": "2017",
+      "dept": "CITY CLERK",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-of-the-office-of-the-city-clerk/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Condition_All_Funds_City_Treasury_June302016.png",
+      "name": "Condition of All Funds in the City Treasury as of June 30, 2016",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/condition-of-all-funds-in-the-city-treasury-as-of-june-30-2016/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Management_Audit_LA_Water_Power_Employees_Retirement_Plan.png",
+      "name": "Management Audit of the Los Angeles Water and Power Employees’ Retirement Plan",
+      "year": "2017",
+      "dept": "DEPARTMENT OF WATER AND POWER",
+      "link": "https://lacontroller.org/audits-and-reports/management-audit-of-the-los-angeles-water-and-power-employees-retirement-plan/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY17 Single Audit Reports",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy17-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_Business_Permits_Issued_Police_Commission.png",
+      "name": "Audit of Business Permits Issued by the Police Commission",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-business-permits-issued-by-the-police-commission/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Audit – Dept. of Convention & Tourism Development",
+      "year": "2017",
+      "dept": "DEPARTMENT OF CONVENTION TOURISM AND DEVELOPMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-of-convention-and-tourism-development/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_LADWP_Training_Programs.png",
+      "name": "Audit of the Department of Water and Power’s Training Programs",
+      "year": "2017",
+      "dept": "DEPARTMENT OF WATER AND POWER",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-the-department-of-water-and-powers-training-programs/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Department on Disability",
+      "year": "2017",
+      "dept": "DISABILITY",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-on-disability/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Personnel Department",
+      "year": "2017",
+      "dept": "PERSONNEL",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-personnel-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Department of Recreation and Parks",
+      "year": "2017",
+      "dept": "RECREATION AND PARKS",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-of-recreation-and-parks/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_Income-restricted_Affordable_Housing_Units_LA_A_Review_Citys.png",
+      "name": "A Review of the City’s Density Bonus Program and Overall Oversight",
+      "year": "2017",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/a-review-of-the-citys-density-bonus-program-and-overall-oversight/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Special_Review_Econ_Workforce_Dev_Dept_Selection.png",
+      "name": "Special Review: EWDD Selection and Monitoring of WorkSource Center Service Providers",
+      "year": "2017",
+      "dept": "EWDD",
+      "link": "https://lacontroller.org/audits-and-reports/special-review-ewdd-selection-and-monitoring-of-worksource-center-service-providers/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Department of Neighborhood Empowerment",
+      "year": "2016",
+      "dept": "DEPARTMENT OF NEIGHBORHOOD EMPOWERMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-of-neighborhood-empowerment/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at Emergency Management Department",
+      "year": "2016",
+      "dept": "EMERGENCY MANAGEMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-emergency-management-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at Department of City Planning",
+      "year": "2016",
+      "dept": "PLANNING",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-department-of-city-planning/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Bureau_Sanitations_Recycled_Water_Programs.png",
+      "name": "Bureau of Sanitation’s Recycled Water Programs",
+      "year": "2016",
+      "dept": "BUREAU OF SANITATION",
+      "link": "https://lacontroller.org/audits-and-reports/bureau-of-sanitations-recycled-water-programs/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Audit_Citys_Oversight_Management_Natural_Gas_Utility_Franchise_Agreement.png",
+      "name": "Audit of the City’s Natural Gas Utility Franchise Agreement",
+      "year": "2016",
+      "dept": "OFFICE OF PETROLEUM AND NATURAL GAS",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-the-citys-oversight-and-management-of-its-natural-gas-utility-franchise-agreement/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Office of Finance",
+      "year": "2016",
+      "dept": "OFFICE OF FINANCE",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-office-of-finance/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Los Angeles Fire Department",
+      "year": "2016",
+      "dept": "LOS ANGELES FIRE DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-los-angeles-fire-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY16 Single Audit Reports",
+      "year": "2016",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy16-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Audit_Prop_O_Clean_Water_Projects.png",
+      "name": "Audit of Prop O Clean Water Program",
+      "year": "2017",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-prop-o-clean-water-program-good-projects-but-a-poor-financial-practice/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Audit at Housing & Community Investment",
+      "year": "2016",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-housing-and-community-investment-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Conditions_All_Funds_City_Treasury_Review_Cash_Investment_Activities.png",
+      "name": "Condition of All Funds and Review of Cash and Investment Activities as of June 30, 2015",
+      "year": "2016",
+      "dept": "OFFICE OF FINANCE",
+      "link": "https://lacontroller.org/audits-and-reports/condition-of-all-funds-in-the-city-treasury-and-review-of-cash-and-investment-activities-as-of-june-30-2015/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/12/LAWA-IEA-Thumbnail-scaled.jpg",
+      "name": "Industrial, Economic and Administrative Survey of the Los Angeles World Airports",
+      "year": "2022",
+      "dept": "LOS ANGELES WORLD AIRPORTS",
+      "link": "https://lacontroller.org/audits-and-reports/industrial-economic-and-administrative-survey-of-the-los-angeles-world-airports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/11/DCR-Cover-scaled.jpg",
+      "name": "High Maintenance: Review of the City’s Cannabis Regulation Efforts",
+      "year": "2022",
+      "dept": "DEPARTMENT OF CANNABIS REGULATION",
+      "link": "https://lacontroller.org/audits-and-reports/review-of-the-citys-cannabis-regulation-efforts/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/11/Notify-LA-Thumbnail-scaled.jpg",
+      "name": "Follow-Up Audit — Alert and Aware: Modernizations to Improve NotifyLA, the City’s Emergency Mass Notification System",
+      "year": "2022",
+      "dept": "EMERGENCY MANAGEMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/follow-up-audit-alert-and-aware-modernizations-to-improve-notifyla-the-citys-emergency-mass-notification-system/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/11/DSW-Thumbnail-scaled.jpg",
+      "name": "Follow-Up Audit — In Case of Emergency: The City’s Disaster Service Worker Program",
+      "year": "2022",
+      "dept": "DISASTER SERVICE WORKER PROGRAM",
+      "link": "https://lacontroller.org/audits-and-reports/follow-up-audit-in-case-of-emergency-the-citys-disaster-service-worker-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/10/Emergency-Management-Department-Audit-Cover-scaled.jpg",
+      "name": "A Better Plan to Get L.A. Ready for Emergencies",
+      "year": "2022",
+      "dept": "EMERGENCY MANAGEMENT",
+      "link": "https://lacontroller.org/audits-and-reports/a-better-plan-to-get-l-a-ready-for-emergencies/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY21 Single Audit Reports",
+      "year": "2021",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy21-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/09/Youth-Program-Follow-Up-2022.png",
+      "name": "Follow-Up Audit—Room to Grow: A Framework for Youth Development in Los Angeles",
+      "year": "2022",
+      "dept": "CITY YOUTH PROGRAMS",
+      "link": "https://lacontroller.org/audits-and-reports/youth-development-in-l-a-follow-up-audit/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/08/LADWP-IEA-2022.jpg",
+      "name": "Industrial, Economic and Administrative Survey of the Los Angeles Department of Water and Power",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/iea-survey-of-the-department-of-water-and-power/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/07/Management-Audit-Report-of-LACERS.png",
+      "name": "Management Audit Report of the Los Angeles City Employees’ Retirement System",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/management-audit-report-of-the-los-angeles-city-employees-retirement-system/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/07/Management-Audit-Report-of-the-Los-Angeles-Fire-and-Police-Pensions.png",
+      "name": "Management Audit Report of the Los Angeles Fire and Police Pensions",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/management-audit-report-of-the-los-angeles-fire-and-police-pensions/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/03/FWA-Annual-Report-Cover-2022.png",
+      "name": "On the Lookout: Fraud, Waste and Abuse Annual Report",
+      "year": "2022",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/fwa-2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/02/HHH-Report-2022.png",
+      "name": "The Problems and Progress of Prop. HHH",
+      "year": "2022",
+      "dept": "PROPOSITION HHH",
+      "link": "https://lacontroller.org/audits-and-reports/problems-and-progress-of-prop-hhh/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/12/City-Properties-Report_2.png",
+      "name": "City Properties Available for Homeless Housing and Services",
+      "year": "2022",
+      "dept": "CITY ADMINISTRATIVE OFFICER",
+      "link": "https://lacontroller.org/audits-and-reports/city-owned-properties/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/11/Sidewalk-Report-Cover.png",
+      "name": "Repairing L.A.’s Broken Sidewalk Strategy",
+      "year": "2021",
+      "dept": "PUBLIC WORKS",
+      "link": "https://lacontroller.org/audits-and-reports/sidewalks/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY20 Single Audit Reports",
+      "year": "2021",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy20-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/08/LAFD-OT-Cover.jpg",
+      "name": "Overtime Oversight: LAFD’s COVID-19 Labor Costs",
+      "year": "2021",
+      "dept": "LAFD",
+      "link": "https://lacontroller.org/audits-and-reports/lafd-overtime-covid-testing/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/06/Smart-Cities-Cover-1.jpg",
+      "name": "Protecting Privacy Makes a Smarter L.A.",
+      "year": "2021",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/protecting-privacy/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/05/Taxes-paid-cover-image.jpg",
+      "name": "Increasing Local Investment in Los Angeles",
+      "year": "2021",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/increasing-local-investment/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/04/FWA-Annual-Report-Cover-2020_241x312.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse 2020 Annual Report",
+      "year": "2021",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/fwa-2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/03/Illegal-Dumping-Cover.jpg",
+      "name": "Piling Up: Addressing L.A.’s Illegal Dumping Problem",
+      "year": "2021",
+      "dept": "BUREAU OF SANITATION",
+      "link": "https://lacontroller.org/audits-and-reports/illegaldumping/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/03/411-on-311-Cover_2-brick.jpg",
+      "name": "The 411 on 311: Calling for a Customer-First Approach",
+      "year": "2021",
+      "dept": "INFORMATION TECHNOLOGY AGENCY",
+      "link": "https://lacontroller.org/audits-and-reports/311/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/02/Payroll-Equity-Report_Ethnicity-Cover_241.jpg",
+      "name": "Diversity with Equity: Achieving Fairness at the City of Los Angeles",
+      "year": "2021",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/diversitywithequity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/09/Stronger-Connection-Digital-Services-Report-Cover.jpg",
+      "name": "A  Stronger Connection: Expanding Digital Government Services",
+      "year": "2020",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/digitalservices/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/09/Beacon-Cover.png",
+      "name": "Economic Development and Land Use in Los Angeles",
+      "year": "2020",
+      "dept": "ASSET MANAGEMENT",
+      "link": "https://lacontroller.org/audits-and-reports/economic-development-and-land-use-in-los-angeles/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/09/HHH-2020-Report-Cover-2.jpg",
+      "name": "Meeting the Moment: An Action Plan to Advance Prop. HHH",
+      "year": "2020",
+      "dept": "PROPOSITION HHH",
+      "link": "https://lacontroller.org/audits-and-reports/hhhactionplan/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/07/Gender-Equity-Report-Cover-1.jpg",
+      "name": "Closing the Gap: Women’s Pay and Representation at the City of L.A.",
+      "year": "2020",
+      "dept": "CITY OF LOS ANGELES",
+      "link": "https://lacontroller.org/audits-and-reports/genderequity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/07/Business-Inclusion-Program-Review-Cover-e1593631461403.png",
+      "name": "Seizing the Opportunity to Advance City Contracting Equity",
+      "year": "2020",
+      "dept": "BUREAU OF CONTRACT ADMINISTRATION",
+      "link": "https://lacontroller.org/audits-and-reports/contractingequity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/City-Art-Cover.png",
+      "name": "A More Modern Approach to City-Owned Art",
+      "year": "2020",
+      "dept": "CULTURAL AFFAIRS",
+      "link": "https://lacontroller.org/audits-and-reports/cityart/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q1 Report",
+      "year": "2020",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/fraud-waste-and-abuse-q1-2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY19 Single Audit Reports",
+      "year": "2020",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy19-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/FWA-Annual-Report-Cover-2.png",
+      "name": "On the Lookout: Fraud, Waste and Abuse Annual Report",
+      "year": "2020",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/fwa-2019/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Utility-Discount-Programs-Cover-e1578945071730.png",
+      "name": "Powering Up the City’s Utility Discount Programs",
+      "year": "2020",
+      "dept": "CITY UTILITY DISCOUNT PROGRAMS",
+      "link": "https://lacontroller.org/audits-and-reports/utility-discount-programs/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Wildfire-cover_2.jpg",
+      "name": "It Only Takes a Spark: Enhancing DWP’s Wildfire Prevention Strategy",
+      "year": "2019",
+      "dept": "DWP WILDFIRE PREVENTION",
+      "link": "https://lacontroller.org/audits-and-reports/dwps-wildfire-prevention/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q3 Report",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-fraud-waste-and-abuse-q3-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Overtime-Report-e1572555571188.jpg",
+      "name": "On the Clock: Review of City Employee Overtime",
+      "year": "2019",
+      "dept": "CITY OVERTIME",
+      "link": "https://lacontroller.org/audits-and-reports/overtime/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/10/Audit-and-Report-Cover-HHH-e1570221867133.jpg",
+      "name": "The High Cost of Homeless Housing: Review of Proposition HHH",
+      "year": "2019",
+      "dept": "PROPOSITION HHH",
+      "link": "https://lacontroller.org/audits-and-reports/high-cost-of-homeless-housing-hhh/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/08/Purchase-Review-Cover-ThumbnIL.png",
+      "name": "Los Angeles World Airports P-Card Purchasing Review",
+      "year": "2019",
+      "dept": "Airports (LAWA)",
+      "link": "https://lacontroller.org/audits-and-reports/los-angeles-world-airports-p-card-purchasing-review/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/08/2019-08-30.jpg",
+      "name": "Strategy on the Streets: Improving LAHSA’s Outreach Program",
+      "year": "2019",
+      "dept": "LAHSA",
+      "link": "https://lacontroller.org/audits-and-reports/strategy-on-the-streets/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/08/Asset-Managment-Cover_2-e1565649200631.jpg",
+      "name": "Los Angeles Municipal Development Corporation",
+      "year": "2019",
+      "dept": "ASSET MANAGEMENT",
+      "link": "https://lacontroller.org/audits-and-reports/real-estate-asset-management/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: Los Angeles Fire Department IT Commodity Procurement",
+      "year": "2019",
+      "dept": "Los Angeles Fire Department",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-los-angeles-fire-department-it-commodity-procurement/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q2 Report",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-fraud-waste-and-abuse-q2-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/07/AUDIT-Thumbnail-Room-to-Grow.png",
+      "name": "Room to Grow: A Framework for Youth Development in Los Angeles",
+      "year": "2019",
+      "dept": "CITY YOUTH PROGRAMS",
+      "link": "https://lacontroller.org/audits-and-reports/youthprogramsreport/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: HCIDLA IT Commodity Procurement",
+      "year": "2019",
+      "dept": "HCIDLA",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-hcidla-it-commodity-procurement/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: HCIDLA IT Professional Services Contracting",
+      "year": "2019",
+      "dept": "HCIDLA",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-hcidla-it-professional-services-contracting-review/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/FWA-Quarterly-Report-Thumbnail.jpg",
+      "name": "On the Lookout: Fraud, Waste and Abuse Q1 Report",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-fraud-waste-and-abuse-unit-quarterly-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/LADBS-Report-Cover-Thumbnail-1.jpg",
+      "name": "Strengthening Oversight of the City’s IT Contracts",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/itcontracts/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/TUMBCover_On-the-Lookout_Review-of-the-Fraud-Waste-and-Abuse-Unit_3.27.jpg",
+      "name": "On the Lookout: Review of the Fraud, Waste and Abuse Unit",
+      "year": "2019",
+      "dept": "LA CONTROLLER",
+      "link": "https://lacontroller.org/audits-and-reports/on-the-lookout-review-of-the-fraud-waste-and-abuse-unit/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2019_TurningNewLeaf_sm.png",
+      "name": "Turning Over A New Leaf: L.A.’s Tree Trimming And Maintenance Program",
+      "year": "2019",
+      "dept": "DEPARTMENT OF PUBLIC WORKS",
+      "link": "https://lacontroller.org/audits-and-reports/turning-over-a-new-leaf-l-a-s-tree-trimming-and-maintenance-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review: Payroll for the Los Angeles Department of Water and Power",
+      "year": "2019",
+      "dept": "LADWP",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-payroll-for-the-los-angeles-department-of-water-and-power/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2019_LosAngelesHarbor_sm.png",
+      "name": "Industrial, Economic and Administrative Survey of the Los Angeles Harbor Department",
+      "year": "2019",
+      "dept": "HARBOR DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/industrial-economic-and-administrative-survey-of-the-los-angeles-harbor-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/2019_InCaseofEmergency_sm.png",
+      "name": "In Case of Emergency: The City’s Disaster Service Worker Program",
+      "year": "2019",
+      "dept": "EMERGENCY MANAGEMENT; PERSONNEL DEPT",
+      "link": "https://lacontroller.org/audits-and-reports/in-case-of-emergency-the-citys-disaster-service-worker-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2019_ShiftingGears_sm.png",
+      "name": "Shifting Gears: A Review of the City’s Passenger Vehicle Motor Pool",
+      "year": "2019",
+      "dept": "GENERAL SERVICES DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/shifting-gears-a-review-of-the-citys-passenger-vehicle-motor-pool/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-engaging-older-angelenos.jpg",
+      "name": "Engaging Older Angelenos",
+      "year": "2018",
+      "dept": "DEPARTMENT OF AGING",
+      "link": "https://lacontroller.org/audits-and-reports/engaging-older-angelenos/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-alert-and-aware.jpg",
+      "name": "Alert and Aware: Review of NotifyLA, the City’s Mass Notification System",
+      "year": "2018",
+      "dept": "EMERGENCY MANAGEMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/alert-and-aware-review-of-notifyla-the-citys-mass/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Department of Transportation",
+      "year": "2018",
+      "dept": "DEPARTMENT OF TRANSPORTATION",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-department-of-transportation/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/subventions-e1580837201576.jpeg",
+      "name": "Incentive Agreements: Tax Breaks and Subvention Deals",
+      "year": "2018",
+      "dept": "EWDD",
+      "link": "https://lacontroller.org/audits-and-reports/incentive-agreements-tax-abatements-subvention-agreements-cf-15-0850-s2/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-A-hire-calling.jpg",
+      "name": "A Hire Calling: Modernizing Recruitment and Hiring in Los Angeles",
+      "year": "2018",
+      "dept": "PERSONNEL DEPT",
+      "link": "https://lacontroller.org/audits-and-reports/a-hire-calling-modernizing-recruitment-and-hiring-in-los-angeles/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Purchasing Cards for General Services Department",
+      "year": "2018",
+      "dept": "GENERAL SERVICES DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-purchasing-cards-for-general-services-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY18 Single Audit Reports",
+      "year": "2018",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy18-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/01/audit-2018-review-of-city-of-los-angeles-oil.jpg",
+      "name": "Review of Oil and Gas Drilling Sites in the City of Los Angeles",
+      "year": "2018",
+      "dept": "OFFICE OF PETROLEUM &amp; NATURAL GAS ADMINISTRATION AND SAFETY",
+      "link": "https://lacontroller.org/audits-and-reports/review-of-the-city-of-los-angeles-oil-and-gas-drilling/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Purchasing Cards for Department of Recreation and Parks",
+      "year": "2018",
+      "dept": "RECREATION AND PARKS",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-purchasing-cards-for-department-of-recreation-and-parks/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Payroll for the Los Angeles Bureau of Sanitation",
+      "year": "2018",
+      "dept": "BUREAU OF SANITATION",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-payroll-for-the-los-angeles-bureau-of-sanitation/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Payroll for the Los Angeles Department of Building and Safety",
+      "year": "2018",
+      "dept": "DEPARTMENT OF BUILDING AND SAFETY",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-payroll-for-the-los-angeles-department-of-building-and-safety/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-Housing-and-Community.png",
+      "name": "Audit on Systematic Code Enforcement Program",
+      "year": "2018",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/audit-on-systematic-code-enforcement-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Compliance Review of Purchasing Cards for Los Angeles Fire Department",
+      "year": "2018",
+      "dept": "LOS ANGELES FIRE DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/compliance-review-of-purchasing-cards-for-los-angeles-fire-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-LA-Zoo-.png",
+      "name": "Greater Transparency & Accountability at L.A. Zoo",
+      "year": "2018",
+      "dept": "ZOO DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/greater-transparency-accountability-at-l-a-zoo/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2018/04/Compliance-Reivew-Cover.jpg",
+      "name": "Los Angeles City Harbor Department Compliance Review",
+      "year": "2018",
+      "dept": "HARBOR DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/los-angeles-city-harbor-department-compliance-review/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Los Angeles Police Department",
+      "year": "2018",
+      "dept": "LOS ANGELES POLICE DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-los-angeles-police-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-Dept-of-Disability.png",
+      "name": "A More Accessible Los Angeles: Audit of the Department on Disability",
+      "year": "2018",
+      "dept": "DEPARTMENT ON DISABILITY",
+      "link": "https://lacontroller.org/audits-and-reports/a-more-accessible-los-angeles-audit-of-the-department-on-disability/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/audit-2018-Building-Safety-Elevator.png",
+      "name": "Elevating Safety: Audit of the City’s Elevator Inspection Program",
+      "year": "2018",
+      "dept": "DEPARTMENT OF BUILDING &amp; SAFETY",
+      "link": "https://lacontroller.org/audits-and-reports/elevating-safety-audit-of-the-department-of-building-safetys-elevator-inspection-program/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit of the General Services Department",
+      "year": "2018",
+      "dept": "GENERAL SERVICES DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-of-the-general-services-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2007/10/BSS-Street-Sweeping-102517-4-e1551379547361.jpg",
+      "name": "Audit on a More Dynamic, Efficient Approach to Street Sweeping",
+      "year": "2017",
+      "dept": "BUREAU OF STREET SERVICES",
+      "link": "https://lacontroller.org/audits-and-reports/audit-on-a-more-dynamic-efficient-approach-to-street-sweeping/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Report_Homeless_Encampments.png",
+      "name": "Homeless Encampments",
+      "year": "2017",
+      "dept": "HOMELESSNESS",
+      "link": "https://lacontroller.org/audits-and-reports/homeless-encampments/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Sun-Valley-Park-01-17-4.jpg",
+      "name": "Park Grade LA",
+      "year": "2015",
+      "dept": "PARK GRADE LA",
+      "link": "https://lacontroller.org/audits-and-reports/park-grade-la/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Bureau of Contract Administration",
+      "year": "2017",
+      "dept": "BUREAU OF CONTRACT ADMINISTRATION",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-bureau-of-contract-administration/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_IT_Disaster_Preparedness_Recovery_Continuity.png",
+      "name": "Audit of Information Technology Disaster Preparedness, Recovery, and Continuity",
+      "year": "2017",
+      "dept": "INFORMATION TECHNOLOGY",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-information-technology-disaster-preparedness-recovery-and-continuity/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_Employee_Health_Benefits.png",
+      "name": "Audit of Employee Healthcare Benefits",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-employee-healthcare-benefits/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit of the Office of the City Clerk",
+      "year": "2017",
+      "dept": "CITY CLERK",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-of-the-office-of-the-city-clerk/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Condition_All_Funds_City_Treasury_June302016.png",
+      "name": "Condition of All Funds in the City Treasury as of June 30, 2016",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/condition-of-all-funds-in-the-city-treasury-as-of-june-30-2016/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Management_Audit_LA_Water_Power_Employees_Retirement_Plan.png",
+      "name": "Management Audit of the Los Angeles Water and Power Employees’ Retirement Plan",
+      "year": "2017",
+      "dept": "DEPARTMENT OF WATER AND POWER",
+      "link": "https://lacontroller.org/audits-and-reports/management-audit-of-the-los-angeles-water-and-power-employees-retirement-plan/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY17 Single Audit Reports",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy17-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_Business_Permits_Issued_Police_Commission.png",
+      "name": "Audit of Business Permits Issued by the Police Commission",
+      "year": "2017",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-business-permits-issued-by-the-police-commission/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Audit – Dept. of Convention & Tourism Development",
+      "year": "2017",
+      "dept": "DEPARTMENT OF CONVENTION TOURISM AND DEVELOPMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-of-convention-and-tourism-development/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_LADWP_Training_Programs.png",
+      "name": "Audit of the Department of Water and Power’s Training Programs",
+      "year": "2017",
+      "dept": "DEPARTMENT OF WATER AND POWER",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-the-department-of-water-and-powers-training-programs/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Department on Disability",
+      "year": "2017",
+      "dept": "DISABILITY",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-on-disability/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Personnel Department",
+      "year": "2017",
+      "dept": "PERSONNEL",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-personnel-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Department of Recreation and Parks",
+      "year": "2017",
+      "dept": "RECREATION AND PARKS",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-of-recreation-and-parks/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Audit_Income-restricted_Affordable_Housing_Units_LA_A_Review_Citys.png",
+      "name": "A Review of the City’s Density Bonus Program and Overall Oversight",
+      "year": "2017",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/a-review-of-the-citys-density-bonus-program-and-overall-oversight/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/COVER_2017_Special_Review_Econ_Workforce_Dev_Dept_Selection.png",
+      "name": "Special Review: EWDD Selection and Monitoring of WorkSource Center Service Providers",
+      "year": "2017",
+      "dept": "EWDD",
+      "link": "https://lacontroller.org/audits-and-reports/special-review-ewdd-selection-and-monitoring-of-worksource-center-service-providers/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Department of Neighborhood Empowerment",
+      "year": "2016",
+      "dept": "DEPARTMENT OF NEIGHBORHOOD EMPOWERMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-department-of-neighborhood-empowerment/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at Emergency Management Department",
+      "year": "2016",
+      "dept": "EMERGENCY MANAGEMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-emergency-management-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at Department of City Planning",
+      "year": "2016",
+      "dept": "PLANNING",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-department-of-city-planning/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Bureau_Sanitations_Recycled_Water_Programs.png",
+      "name": "Bureau of Sanitation’s Recycled Water Programs",
+      "year": "2016",
+      "dept": "BUREAU OF SANITATION",
+      "link": "https://lacontroller.org/audits-and-reports/bureau-of-sanitations-recycled-water-programs/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Audit_Citys_Oversight_Management_Natural_Gas_Utility_Franchise_Agreement.png",
+      "name": "Audit of the City’s Natural Gas Utility Franchise Agreement",
+      "year": "2016",
+      "dept": "OFFICE OF PETROLEUM AND NATURAL GAS",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-the-citys-oversight-and-management-of-its-natural-gas-utility-franchise-agreement/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Office of Finance",
+      "year": "2016",
+      "dept": "OFFICE OF FINANCE",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-office-of-finance/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Fiscal Audit at the Los Angeles Fire Department",
+      "year": "2016",
+      "dept": "LOS ANGELES FIRE DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-los-angeles-fire-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/Single-Audit-Report-Cover.png",
+      "name": "FY16 Single Audit Reports",
+      "year": "2016",
+      "dept": "",
+      "link": "https://lacontroller.org/audits-and-reports/fy16-single-audit-reports/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Audit_Prop_O_Clean_Water_Projects.png",
+      "name": "Audit of Prop O Clean Water Program",
+      "year": "2017",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/audit-of-prop-o-clean-water-program-good-projects-but-a-poor-financial-practice/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Limited-Scope-Fiscal-Audit-Report-Cover.png",
+      "name": "Limited Scope Audit at Housing & Community Investment",
+      "year": "2016",
+      "dept": "HOUSING AND COMMUNITY INVESTMENT DEPARTMENT",
+      "link": "https://lacontroller.org/audits-and-reports/limited-scope-fiscal-audit-at-the-housing-and-community-investment-department/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/2016_Conditions_All_Funds_City_Treasury_Review_Cash_Investment_Activities.png",
+      "name": "Condition of All Funds and Review of Cash and Investment Activities as of June 30, 2015",
+      "year": "2016",
+      "dept": "OFFICE OF FINANCE",
+      "link": "https://lacontroller.org/audits-and-reports/condition-of-all-funds-in-the-city-treasury-and-review-of-cash-and-investment-activities-as-of-june-30-2015/"
+    }
+  ]
+}

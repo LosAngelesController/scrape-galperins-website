@@ -1,0 +1,438 @@
+{
+  "finance": [
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/10/2021-22-Prelim-Financial-Report-Thumbnail-scaled.jpg",
+      "name": "Preliminary Financial Report FY22",
+      "year": "2022",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/preliminary-financial-report-fy22/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/03/Special-Funds-Report-Cover.jpg",
+      "name": "Maximizing the Use of Special Funds",
+      "year": "2022",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/special-funds-2022/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/02/Revenue-Forecast-Report-Cover-2022_alt-1.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2022-2023",
+      "year": "2022",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revenueforecast2023/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/01/AFR-FY21-Report-Cover_alt.jpg",
+      "name": "Annual Comprehensive Financial Report FY21",
+      "year": "2022",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/acfr2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/10/Preliminary-Financial-Report-Cover-2021.jpg",
+      "name": "Preliminary Financial Report FY21",
+      "year": "2021",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/pfr2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/02/Revenue-Forecast-Report-Cover-2021_long-winding-road.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2021-2022",
+      "year": "2021",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revenueforecast2022/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/01/CAFR-FY20-Report-Cover-e1611252399776.jpg",
+      "name": "Annual Comprehensive Financial Report FY20",
+      "year": "2021",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/cafr2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/10/Preliminary-Financial-Report-Cover-2020.jpg",
+      "name": "Preliminary Financial Report FY20",
+      "year": "2020",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/pfr2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Revised-Revenue-Forecast_umbrella-e1586808384955.jpg",
+      "name": "Revised Revenue Forecast for Fiscal Years 2020-2021",
+      "year": "2020",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revised-revenue-forecast-2020-2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Final-Cover_Revenue-Forecast-Report-scaled.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2020-2021",
+      "year": "2020",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revenue-forecast-report-fy21/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/PAFR-Cover-Version-3.png",
+      "name": "Annual Financial Report FY19",
+      "year": "2020",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/cafr-2019/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/10/Audit-and-Report-Cover-PFR-e1571165235945.jpg",
+      "name": "Preliminary Financial Report FY19",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/preliminary-financial-report-2019/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Revenue-Forecast-Report-Cover_243.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2019-2020",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/revenue-forecast/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/In_the_Balanace_-_Special_Funds_Cover.png",
+      "name": "In the Balance: Report on the City’s Special Funds",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/special-funds/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/2018_CAFR_sm.png",
+      "name": "Annual Financial Report FY18",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2018-popular-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/Prelim-Financial-Report-Cover-1.jpg",
+      "name": "Preliminary Financial Report FY18",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "Idle Funds",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/idle-funds/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "Economic Outlook for the City of Los Angeles",
+      "year": "2018",
+      "dept": "Economist Report",
+      "link": "https://lacontroller.org/financial-reports/beacon-economics-llc/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "UCLA Anderson Forecast",
+      "year": "2018",
+      "dept": "Economist Report",
+      "link": "https://lacontroller.org/financial-reports/ucla-anderson-forecast/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "City of Los Angeles Economic Forecast",
+      "year": "2018",
+      "dept": "Economist Report",
+      "link": "https://lacontroller.org/financial-reports/la-city-forecast/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2017-CAFR.png",
+      "name": "Annual Financial Report FY17",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2017-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/PFR-Cover-2017.png",
+      "name": "Preliminary Financial Report FY17",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2017-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Revenue-Forecast-Report-Cover.png",
+      "name": "Revenue Forecast Report FY18",
+      "year": "2017",
+      "dept": "Revenue Forecast Report",
+      "link": "https://lacontroller.org/financial-reports/2017-revenue-forecast-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY16_Cover-1.jpg",
+      "name": "Preliminary Financial Report FY16",
+      "year": "2016",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2016-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2016-CAFR.png",
+      "name": "Annual Financial Report FY16",
+      "year": "2016",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2016-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2015-CAFR.png",
+      "name": "Annual Financial Report FY15",
+      "year": "2016",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2015-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY15_Cover.jpg",
+      "name": "Preliminary Financial Report FY15",
+      "year": "2015",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2015-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2014-CAFR.png",
+      "name": "Annual Financial Report FY14",
+      "year": "2015",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2014-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY14_Cover.jpg",
+      "name": "Preliminary Financial Report FY14",
+      "year": "2014",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2014-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2013-CAFR.png",
+      "name": "Annual Financial Report FY13",
+      "year": "2014",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2013-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY13_Cover.jpg",
+      "name": "Preliminary Financial Report FY13",
+      "year": "2013",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2013-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/10/2021-22-Prelim-Financial-Report-Thumbnail-scaled.jpg",
+      "name": "Preliminary Financial Report FY22",
+      "year": "2022",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/preliminary-financial-report-fy22/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/03/Special-Funds-Report-Cover.jpg",
+      "name": "Maximizing the Use of Special Funds",
+      "year": "2022",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/special-funds-2022/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/02/Revenue-Forecast-Report-Cover-2022_alt-1.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2022-2023",
+      "year": "2022",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revenueforecast2023/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2022/01/AFR-FY21-Report-Cover_alt.jpg",
+      "name": "Annual Comprehensive Financial Report FY21",
+      "year": "2022",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/acfr2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/10/Preliminary-Financial-Report-Cover-2021.jpg",
+      "name": "Preliminary Financial Report FY21",
+      "year": "2021",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/pfr2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/02/Revenue-Forecast-Report-Cover-2021_long-winding-road.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2021-2022",
+      "year": "2021",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revenueforecast2022/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2021/01/CAFR-FY20-Report-Cover-e1611252399776.jpg",
+      "name": "Annual Comprehensive Financial Report FY20",
+      "year": "2021",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/cafr2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2020/10/Preliminary-Financial-Report-Cover-2020.jpg",
+      "name": "Preliminary Financial Report FY20",
+      "year": "2020",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/pfr2020/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Revised-Revenue-Forecast_umbrella-e1586808384955.jpg",
+      "name": "Revised Revenue Forecast for Fiscal Years 2020-2021",
+      "year": "2020",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revised-revenue-forecast-2020-2021/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Final-Cover_Revenue-Forecast-Report-scaled.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2020-2021",
+      "year": "2020",
+      "dept": "FINANCIAL REPORT",
+      "link": "https://lacontroller.org/financial-reports/revenue-forecast-report-fy21/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/PAFR-Cover-Version-3.png",
+      "name": "Annual Financial Report FY19",
+      "year": "2020",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/cafr-2019/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/10/Audit-and-Report-Cover-PFR-e1571165235945.jpg",
+      "name": "Preliminary Financial Report FY19",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/preliminary-financial-report-2019/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/Revenue-Forecast-Report-Cover_243.jpg",
+      "name": "Revenue Forecast Report for Fiscal Years 2019-2020",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/revenue-forecast/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/In_the_Balanace_-_Special_Funds_Cover.png",
+      "name": "In the Balance: Report on the City’s Special Funds",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/special-funds/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/02/2018_CAFR_sm.png",
+      "name": "Annual Financial Report FY18",
+      "year": "2019",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2018-popular-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/Prelim-Financial-Report-Cover-1.jpg",
+      "name": "Preliminary Financial Report FY18",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "Idle Funds",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/idle-funds/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "Economic Outlook for the City of Los Angeles",
+      "year": "2018",
+      "dept": "Economist Report",
+      "link": "https://lacontroller.org/financial-reports/beacon-economics-llc/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "UCLA Anderson Forecast",
+      "year": "2018",
+      "dept": "Economist Report",
+      "link": "https://lacontroller.org/financial-reports/ucla-anderson-forecast/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/financial-report-2018-idle-funds.jpg",
+      "name": "City of Los Angeles Economic Forecast",
+      "year": "2018",
+      "dept": "Economist Report",
+      "link": "https://lacontroller.org/financial-reports/la-city-forecast/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2017-CAFR.png",
+      "name": "Annual Financial Report FY17",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2017-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/04/PFR-Cover-2017.png",
+      "name": "Preliminary Financial Report FY17",
+      "year": "2018",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2017-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Revenue-Forecast-Report-Cover.png",
+      "name": "Revenue Forecast Report FY18",
+      "year": "2017",
+      "dept": "Revenue Forecast Report",
+      "link": "https://lacontroller.org/financial-reports/2017-revenue-forecast-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY16_Cover-1.jpg",
+      "name": "Preliminary Financial Report FY16",
+      "year": "2016",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2016-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2016-CAFR.png",
+      "name": "Annual Financial Report FY16",
+      "year": "2016",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2016-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2015-CAFR.png",
+      "name": "Annual Financial Report FY15",
+      "year": "2016",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2015-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY15_Cover.jpg",
+      "name": "Preliminary Financial Report FY15",
+      "year": "2015",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2015-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2014-CAFR.png",
+      "name": "Annual Financial Report FY14",
+      "year": "2015",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2014-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY14_Cover.jpg",
+      "name": "Preliminary Financial Report FY14",
+      "year": "2014",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2014-preliminary-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/03/2013-CAFR.png",
+      "name": "Annual Financial Report FY13",
+      "year": "2014",
+      "dept": "Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2013-comprehensive-annual-financial-report/"
+    },
+    {
+      "image": "https://lacontroller.org/wp-content/uploads/2019/05/Preliminary_FY13_Cover.jpg",
+      "name": "Preliminary Financial Report FY13",
+      "year": "2013",
+      "dept": "Preliminary Financial Report",
+      "link": "https://lacontroller.org/financial-reports/2013-preliminary-financial-report/"
+    }
+  ]
+}
